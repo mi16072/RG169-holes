@@ -9,3 +9,6 @@ Udarac se realizuje tasterom space.
 Od brzine korisnika zavisi da li ih moze sve unistiti. 
 Igra se moze pauzirati klikom na taster s/S.
 Pomeranjem misa se scena moze posmatrati iz razlicitih uglova.
+
+Program se prevodi sa: gcc final.c -lGL -lGLU -lglut -lm
+
